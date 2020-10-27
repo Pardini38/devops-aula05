@@ -1,3 +1,4 @@
+#teste
 import jogovelha
 import sys
 
